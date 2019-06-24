@@ -1,5 +1,6 @@
 {
   "name": "simple-news-app",
+  "author": "Dimas Wibowo",
   "license": "MIT",
   "version": "0.0.1",
   "scripts": {
